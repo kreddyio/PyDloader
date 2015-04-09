@@ -4,7 +4,7 @@ Installation
 ------------
   Run the following command:
   
-    sudo pip install scapy netifaces commands
+    sudo pip install scapy netifaces commands pycurl
 ## How does it work?
   It works basically on the concept that cyberoam limits bandwidth per-ip basis. Hence, the more ips you have,
   the more bandwidth you have. This download manager basically searches for free ips in the subnet and automatically 
